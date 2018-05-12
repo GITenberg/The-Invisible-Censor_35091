@@ -1,0 +1,34 @@
+_repo: The-Invisible-Censor_35091
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hackett, Francis
+    birthdate: 1883
+    deathdate: 1962
+    gutenberg_agent_id: '37454'
+    url: http://www.gutenberg.org/2009/agents/37454
+description: ''
+gutenberg_issued: '2010-01-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35091'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'American essays'
+tableOfContents: The invisible censor -- Whisky -- Billy Sunday, salesman -- Fifth
+  Avenue and Forty-second Street -- As an alien feels -- Scientific management --
+  The next New York -- Chicago -- The clouds of Kerry -- Henry Adams -- The age of
+  innocence -- The Irish revolt -- A limb of the law -- A personal Pantheon -- Night
+  lodging -- Youth and the skeptic -- The spaces of uncertainty or, an ache in the
+  void -- William Butler Yeats -- "With malice toward none" -- War experts -- Okura
+  sees Newport -- The critic and the criticized -- Blind -- "And the earth was dry"
+  -- Telegrams -- Of pleasant things -- The aviator.
+title: The Invisible Censor
+url: http://www.gutenberg.org/ebooks/35091
